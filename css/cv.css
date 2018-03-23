@@ -191,15 +191,15 @@ body{
     background-size: cover;
 }
 .bg-img li:nth-child(2){
-    background: url(../img/bg2.jpg) no-repeat center ;
-    background-size: cover;
-}
-.bg-img li:nth-child(3){
     background: url(../img/bg1.jpg) no-repeat center ;
     background-size: cover;
 }
-.bg-img li:nth-child(4){
+.bg-img li:nth-child(3){
     background: url(../img/bg2.jpg) no-repeat center ;
+    background-size: cover;
+}
+.bg-img li:nth-child(4){
+    background: url(../img/bg1.jpg) no-repeat center ;
     background-size: cover;
 }
 #section1 h3{
