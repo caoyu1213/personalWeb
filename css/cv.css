@@ -45,18 +45,17 @@ body{
 #section1{
     color: #2c3e50;
     position: relative;
-    /*background-image: url(../image/intro-bg.jpg);*/
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     overflow: hidden;
 }
 #section5{
-    background: url(../img/bg4.jpg) no-repeat center;
+    background: url(../img/bg4.jpg) repeat center;
     background-attachment: fixed;
 }
 #section7{
-    background: url(../img/bg4.jpg) no-repeat center;
+    background: url(../img/bg4.jpg) repeat center;
     background-attachment: fixed;
 }
 .cv-container{
@@ -336,7 +335,7 @@ body{
     font-size: 14px;
 }
 #section3{
-    background: url(../img/bg3.jpg) repeat center;
+    background: url(../img/bg4.jpg) repeat center;
     background-attachment: fixed;
 }
 
